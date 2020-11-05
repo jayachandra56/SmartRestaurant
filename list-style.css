@@ -1,0 +1,61 @@
+#btn-addCart, #btn-removeItem{
+    width: 20%;
+    float:right;
+    margin-top:0px;
+    border-radius: 5px;
+    background-color: #e49b41;
+    border-color: beige;
+    }
+    #heading-name{
+            float:left;
+            width:40%;
+            color:#fff;
+    }
+    #heading-price, #heading-qty, #heading-status{
+            width:20%;
+            float:left;
+            color:#fff;
+    }
+    #item-name{
+    float:left;
+    width:40%
+    }
+    #item-price, #item-qty, #item-status{
+    width:20%;
+    float:left;
+    }
+    .list-group-item{
+        background-color: bisque;
+        margin-top:3px;
+    }
+    @media only screen and (max-width: 768px) {
+            
+            #btn-addCart, #btn-removeItem{
+            width: 50%;
+            clear:both;
+            margin-top:10px;
+            border-radius: 5px;
+            background-color: #e49b41;
+            border-color: beige;
+            }
+            #heading-name{
+                    float:left;
+                    width:40%;
+                    color:#fff;
+            }
+            #heading-price, #heading-qty,#heading-status{
+                    width:25%;
+                    float:left;
+                    color:#fff;
+            }
+            #item-name{
+                    float:left;
+                    width:40%;
+                    
+            }
+            #item-price, #item-qty, #item-status{
+                    width:25%;
+                    float:left;
+                    padding-left: 10px; 
+            }
+        }
