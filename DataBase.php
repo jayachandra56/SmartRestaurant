@@ -13,6 +13,7 @@ class DataBase{
         mysqli_close($connection);
     
     }
+    
 
     function getitemsCustomList($category){
         include "connection.php";

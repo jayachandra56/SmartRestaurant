@@ -90,6 +90,7 @@ class mainMenuComponent{
         </div>
     </form>
         ";
+        
         echo $element;
     }
 
