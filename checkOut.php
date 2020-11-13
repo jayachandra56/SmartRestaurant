@@ -43,9 +43,9 @@
         }
         </style>
 
-    <link href="style.css" rel="stylesheet">
-    <link href="list-style.css" rel="stylesheet">
-    <link href="header-style.css" rel="stylesheet">
+    <link href="/CSS/style.css" rel="stylesheet">
+    <link href="/CSS/list-style.css" rel="stylesheet">
+    <link href="/CSS/header-style.css" rel="stylesheet">
 
 
 </head>
