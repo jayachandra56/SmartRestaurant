@@ -5,7 +5,7 @@
 <meta charset="utf-8">
         <meta name="viewport" content="width=device-width", initial-scale="1.0">
 <title>Smart Restaurant</title>
-<link rel="stylesheet" href="/CSS/style.css">
+<link rel="stylesheet" href="./CSS/style.css">
 <style>
 #pre-loader{
     position:absolute;
@@ -19,9 +19,9 @@
 </style>
 </head>
 <body>
-    <div id="pre-loader">
+    <!-- <div id="pre-loader">
         <img src="./images/loader.gif" id="loader"/>
-    </div>
+    </div> -->
 	<div class="header" style="background-color:#343a40!important"><h1><center>GOURMET'S PARADISE</center></h1></div>
     <div class="menu">
 	    <ul>
